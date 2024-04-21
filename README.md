@@ -1,12 +1,12 @@
 # Apache-Kafka-BDA
-BDA Assignment on Apache Kafka
+BDA Assignment on Apache Kafka<br>
 Project Name: Real-time Streaming Analytics Pipeline
 
 # Team Members:
 
-Haroon Salim
-Immad Shahid
-Ahmad Luqman
+Haroon Salim<br>
+Immad Shahid<br>
+Ahmad Luqman<br>
 # Overview:
 This project implements a real-time streaming analytics pipeline for processing and analyzing data streams using Python and Kafka. The pipeline includes components for data preprocessing, frequent itemset mining algorithms (Apriori and PCY), and additional analysis using innovative approaches.
 
