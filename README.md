@@ -22,9 +22,9 @@ Innovative Analysis: The third consumer implements an innovative analysis or alg
 Technologies/Libraries Used:
 
 # Python 3.11.9
--> Kafka
--> Confluent Kafka Python library (confluent_kafka)
--> NLTK (Natural Language Toolkit) for text processing (optional)
+- Kafka
+- Confluent Kafka Python library (confluent_kafka)
+- NLTK (Natural Language Toolkit) for text processing (optional)
 
 # Installation:
 
