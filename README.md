@@ -28,13 +28,14 @@ Technologies/Libraries Used:
 
 # Installation:
 
-Python: Install Python from the official website: Python
-Kafka: Install Kafka by following the instructions on the official website: Apache Kafka
+Python: Install Python from the [official website](https://www.python.org). <br>
+Kafka: Install Kafka by following the instructions on the [official website](https://kafka.apache.org). <br>
 
-Confluent Kafka Python library: Install the confluent_kafka library using pip:
+Confluent Kafka Python library: <br>
+Install the confluent_kafka library using pip: <br>
 pip install confluent_kafka
 
-NLTK: (for text processing) Install NLTK using pip:
+NLTK: (for text processing) Install NLTK using pip: <br>
 pip install nltk
 
 # Usage:
@@ -53,7 +54,7 @@ We would like to thank the open-source community for providing valuable resource
 
 # Contact:
 For any inquiries or feedback, please contact:
+[Haroon Salim](https://github.com/HaroonSalim) <br>
+[Immad Shahid](https://github.com/immadshahid) <br>
+[Ahmad Luqman](https://github.com/ahmadluqman) <br>
 
-Haroon Salim: @HaroonSalim
-Immad Shahid: @immadshahid
-Ahmad Luqman: @ahmadluqman
