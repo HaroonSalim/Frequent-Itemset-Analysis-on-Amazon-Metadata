@@ -52,9 +52,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Acknowledgements:
 We would like to thank the open-source community for providing valuable resources and libraries that made this project possible.
 
-# Contact:
-For any inquiries or feedback, please contact:
-[Haroon Salim](https://github.com/HaroonSalim) <br>
-[Immad Shahid](https://github.com/immadshahid) <br>
-[Ahmad Luqman](https://github.com/ahmadluqman) <br>
+# Team:
+For any inquiries or feedback, please contact the amazing team behind this project: <br>
+Haroon Salim [Github](https://github.com/HaroonSalim) <br>
+Immad Shahid [Github](https://github.com/immadshahid) <br>
+Ahmed Luqman [Github](https://github.com/ahmadluqman) <br>
 
