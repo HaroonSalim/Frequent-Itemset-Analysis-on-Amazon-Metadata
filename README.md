@@ -57,5 +57,5 @@ We would like to thank the open-source community for providing valuable resource
 For any inquiries or feedback, please contact the amazing team behind this project: <br>
 Haroon Salim [Github](https://github.com/HaroonSalim) <br>
 Immad Shahid [Github](https://github.com/immadshahid) <br>
-Ahmed Luqman [Github](https://github.com/ahmadluqman) <br>
+Ahmad Luqman [Github](https://github.com/ahmadluqman) <br>
 
