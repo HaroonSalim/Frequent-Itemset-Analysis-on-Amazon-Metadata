@@ -12,13 +12,13 @@ This project implements a real-time streaming analytics pipeline for processing 
 
 # Approach:
 
-Data Preprocessing: We preprocess the data using Python scripts to clean and format it for analysis. This includes removing duplicates, handling missing values, and tokenizing text fields if present.
-Streaming Pipeline Setup: We use Kafka as the messaging system to implement the streaming pipeline. The pipeline consists of a producer application that streams preprocessed data to a Kafka topic and multiple consumer applications that subscribe to this data stream.
+- Data Preprocessing: We preprocess the data using Python scripts to clean and format it for analysis. This includes removing duplicates, handling missing values, and tokenizing text fields if present.
+- Streaming Pipeline Setup: We use Kafka as the messaging system to implement the streaming pipeline. The pipeline consists of a producer application that streams preprocessed data to a Kafka topic and multiple consumer applications that subscribe to this data stream.
 
 # Frequent Itemset Mining:
-Apriori Algorithm: We implement the Apriori algorithm in one of the consumers using a sliding window approach to approximate frequent itemsets. <br>
-PCY Algorithm: We implement the PCY algorithm in another consumer, utilizing a hash table to count item pairs and reduce memory consumption. <br>
-Innovative Analysis: The third consumer implements an innovative analysis or algorithm, providing unique insights or associations from the streaming data. In our example, we demonstrate an incremental approach to calculate the average of a numeric attribute over time. <br>
+- Apriori Algorithm: We implement the Apriori algorithm in one of the consumers using a sliding window approach to approximate frequent itemsets. <br>
+- PCY Algorithm: We implement the PCY algorithm in another consumer, utilizing a hash table to count item pairs and reduce memory consumption. <br>
+- Innovative Analysis: The third consumer implements an innovative analysis or algorithm, providing unique insights or associations from the streaming data. In our example, we demonstrate an incremental approach to calculate the average of a numeric attribute over time. <br>
 
 # Technologies/Libraries Used:
 
@@ -29,14 +29,14 @@ Innovative Analysis: The third consumer implements an innovative analysis or alg
 
 # Installation:
 
-Python: Install Python from the [official website](https://www.python.org). <br>
-Kafka: Install Kafka by following the instructions on the [official website](https://kafka.apache.org). <br>
+**Python:** Install Python from the [official website](https://www.python.org). <br>
+**Kafka:** Install Kafka by following the instructions on the [official website](https://kafka.apache.org). <br>
 
-Confluent Kafka Python library: <br>
+**Confluent Kafka Python library:** <br>
 Install the confluent_kafka library using pip: <br>
 pip install confluent_kafka
 
-NLTK: (for text processing) Install NLTK using pip: <br>
+**NLTK:** (for text processing) Install NLTK using pip: <br>
 pip install nltk
 
 # Usage:
