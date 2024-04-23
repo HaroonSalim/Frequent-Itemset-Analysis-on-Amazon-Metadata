@@ -26,18 +26,21 @@ This project implements a real-time streaming analytics pipeline for processing 
 - Kafka <br>
 - Confluent Kafka Python library (confluent_kafka) <br>
 - NLTK (Natural Language Toolkit) for text processing <br>
+- vaderSentiment (Valence Aware Dictionary and Sentiment Reasoner) algorithm <br>
 
 # Installation:
 
-**Python:** Install Python from the [official website](https://www.python.org). <br>
-**Kafka:** Install Kafka by following the instructions on the [official website](https://kafka.apache.org). <br>
+- **Python:** Install Python from the [official website](https://www.python.org). <br>
+- **Kafka:** Install Kafka by following the instructions on the [official website](https://kafka.apache.org). <br>
 
-**Confluent Kafka Python library:** <br>
-Install the confluent_kafka library using pip: <br>
+- **Confluent Kafka Python library:** <br>
+Install the confluent_kafka library using pip<br>
 pip install confluent_kafka
 
-**NLTK:** (for text processing) Install NLTK using pip: <br>
+- **NLTK:** (for text processing) Install NLTK using pip: <br>
 pip install nltk
+
+- **vaderSentiment:** Can be installed using pip install vaderSentiment
 
 # Usage:
 
