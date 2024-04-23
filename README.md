@@ -18,7 +18,7 @@ This project implements a real-time streaming analytics pipeline for processing 
 # Frequent Itemset Mining:
 - Apriori Algorithm: We implement the Apriori algorithm in one of the consumers using a sliding window approach to approximate frequent itemsets. <br>
 - PCY Algorithm: We implement the PCY algorithm in another consumer, utilizing a hash table to count item pairs and reduce memory consumption. <br>
-- Innovative Analysis: The third consumer implements an innovative analysis or algorithm, providing unique insights or associations from the streaming data. In our example, we demonstrate an incremental approach to calculate the average of a numeric attribute over time. <br>
+- Innovative Analysis: We perform sentiment analysis on product descriptions from the SQLite database containing Amazon Metadata. <br>
 
 # Technologies/Libraries Used:
 
