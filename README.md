@@ -4,9 +4,9 @@ Project Name: Real-time Streaming Analytics Pipeline
 
 # Team Members:
 
-Haroon Salim<br>
-Immad Shahid<br>
-Ahmad Luqman<br>
+- Haroon Salim 21i-1663<br>
+- Immad Shahid 21i-1664<br>
+- Ahmad Luqman 22i-2018<br>
 # Overview:
 This project implements a real-time streaming analytics pipeline for processing and analyzing data streams using Python and Kafka. The pipeline includes components for data preprocessing, frequent itemset mining algorithms (Apriori and PCY), and additional analysis using innovative approaches.
 
