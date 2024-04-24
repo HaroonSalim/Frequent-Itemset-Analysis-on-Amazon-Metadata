@@ -42,6 +42,9 @@ pip install nltk
 
 - **vaderSentiment:** Can be installed using pip install vaderSentiment
 
+# Bonus
+The Shell script uploaded along with all the work in the repository automates starting Zookeeper, Kafka broker, creating topics, running the producer, and executing consumer applications, making it easier to manage the Kafka pipeline. 
+
 # Usage:
 
 - Clone this repository to your local machine.
